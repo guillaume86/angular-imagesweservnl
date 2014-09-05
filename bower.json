@@ -1,0 +1,21 @@
+{
+  "name": "angular-imagesweservnl",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guillaume86/angular-imagesweservnl",
+  "authors": [
+    "Guillaume Lecomte <guillaume86@gmail.com>"
+  ],
+  "main": "./dist/angular-imagesweservnl.js",
+  "keywords": [
+    "angular",
+    "images"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
